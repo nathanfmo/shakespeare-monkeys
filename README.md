@@ -12,6 +12,7 @@ This was the inspiration for this project, which posits a derivative of this
 theorem. I present, the *finite monkey theorem*:
 > "A monkey hitting keys at random on a typewriter keyboard for a **finite**
 > amount of time will type out a passage from Shaekspeare, eventually."
+
 This is pretty obvious, if we ignore the factors like monkey lifespan or if
 the monkey actually prefers the political intrigue of Tolstoy or the
 world-building of Tolkien.
