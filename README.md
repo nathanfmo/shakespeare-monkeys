@@ -25,7 +25,7 @@ a monkey to type out a passage (excluding punctuation, for now).
 ## Features:
 - A specified number of monkeys, minus any of the downsides of owning monkeys!
 - An appropriate number of keyboards
-- Passages from various Shakespeare works
+- Passages from various Shakespeare works, based on [Dr. Oliver Tearle's selections](https://interestingliterature.com/2018/10/seven-of-the-best-speeches-from-shakespeare-plays/)
 - An intern we "borrowed" from the Word spell-checker to keep an eye on the monkeys'
 progress
 
